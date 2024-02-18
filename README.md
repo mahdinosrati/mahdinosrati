@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Mahdi Nosrati</h1>
 <h3 align="center">I began my coding journey in December 2018 as a self-taught developer. My passion lies in crafting modern, visually appealing websites enhanced with subtle animations. I'm deeply committed to my work and always eager to collaborate on exciting projects. If you have an idea or project in mind, I'd love to hear from you! 🔭 I’m currently working on: Speeding up coffee machines. 👯 I’m looking to collaborate on: Building a coffee drone delivery system. 🤝 I’m looking for help with: Finding the internet's end. 🌱 I’m currently learning: Telepathic debugging. 💬 Ask me about: Keyboards plotting world domination. ⚡ Fun fact: Tried teaching a duck to code; it just quacked.</h3>
 
