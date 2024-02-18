@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahdi Nosrati</h1>
 <h3 align="center">I began my coding journey in December 2018 as a self-taught developer. My passion lies in crafting modern, visually appealing websites enhanced with subtle animations. I'm deeply committed to my work and always eager to collaborate on exciting projects. If you have an idea or project in mind, I'd love to hear from you! 🔭 I’m currently working on: Speeding up coffee machines. 👯 I’m looking to collaborate on: Building a coffee drone delivery system. 🤝 I’m looking for help with: Finding the internet's end. 🌱 I’m currently learning: Telepathic debugging. 💬 Ask me about: Keyboards plotting world domination. ⚡ Fun fact: Tried teaching a duck to code; it just quacked.</h3>
 
+<img align="right" alt="Mahdi Nosrati" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdinosrati&label=Profile%20views&color=0e75b6&style=flat" alt="mahdinosrati" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdinosrati" alt="mahdinosrati" /></a> </p>
